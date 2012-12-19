@@ -1,6 +1,8 @@
 LUDUS - Laboratorio de Projetos Especiais em Engenharia da Computacao
+
 Intel MPI Benchmark - Intel MPI benchmark para linguagens de programação concorrentes
 ---------------------------------------------------------------------
 
 Aluno: Daniel Henrique Braz Aquino ( dhbaquino@gmail.com )
+
 Orientador : Prof Jucimar Jr ( jucimar.jr@gmail.com )
