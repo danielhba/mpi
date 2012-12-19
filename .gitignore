@@ -1,0 +1,9 @@
+*.beam
+*.*~
+*~
+*.class
+*.dump
+*.swp
+.\#*
+.DS_Store
+.metadata/
