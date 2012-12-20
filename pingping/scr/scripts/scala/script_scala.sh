@@ -11,10 +11,10 @@ do
 for i in 1 2 3 4 5 6 7 8 9 10 
 do
 scala -J-Xmx8g pingping $h $j pingping_scala_"$h"B_"$j"R.txt
+echo "$h DataSize $j Repetitions - Scala"
 done
 done
 done
-
 #Encerra script 
 sleep 2
 

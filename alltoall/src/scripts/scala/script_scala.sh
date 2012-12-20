@@ -13,6 +13,7 @@ do
 for i in 1 2 3 4 5 6 7 8 9 10 
 do
 scala -J-Xmx8g alltoall $h $j $k alltoall_scala_"$h"_"$j"_"$k".txt
+echo "$h DataSize $j Repetitions $k Process - Scala"
 done
 done
 done
