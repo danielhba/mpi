@@ -11,7 +11,7 @@ do
 for i in 1 2 3 4 5 6 7 8 9 10 
 do
 java PingPongPrincipal $h $j
-echo "$h DataSize $j Repetitions Java" 
+echo "$h DataSize $j Repetitions Java - PingPong" 
 done
 done
 done

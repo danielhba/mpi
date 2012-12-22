@@ -13,7 +13,7 @@ do
 for i in 1 2 3 4 5 6 7 8 9 10 
 do
 java AllToAllPrincipal $h $j $k
-echo "$h DataSize $j Repetitions $k Process - Java"
+echo "$h DataSize $j Repetitions $k Process - Java - AllToAll"
 done
 done
 done

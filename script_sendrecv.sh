@@ -1,6 +1,6 @@
 pid=$!
 
-cd sendrecv/src/scripts/
+cd sendrecv/src/
 sh script.sh
 
 #Encerra script 

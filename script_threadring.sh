@@ -1,6 +1,6 @@
 pid=$!
 
-cd threadring/src/scripts/
+cd threadring/src/
 sh script.sh
 
 #Encerra script 

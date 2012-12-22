@@ -1,6 +1,6 @@
 pid=$!
 
-cd alltoall/src/scripts/
+cd alltoall/src/
 sh script.sh
 
 #Encerra script 
