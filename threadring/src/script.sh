@@ -27,10 +27,10 @@ echo "$h DataSize $j Repetitions $k Process - Threadring - Java"
 cd ../java
 java SendRecvPrincipal $h $j $k
 
-echo "$h DataSize $j Repetitions $k Process - SendRecv - Scala"
+echo "$h DataSize $j Repetitions $k Process - Threadring - Scala"
 cd ../scala
 scala -J-Xmx8g threadring $h $j $k threadring_scala_"$h"_"$j"_"$k".txt
-echo "$h DataSize $j Repetitions $k Process - Threadring - Scala"
+
 
 done
 done

@@ -10,7 +10,7 @@ for h in 5000 10000 50000
 do
 for i in 1 2 3 4 5 6 7 8 9 10 
 do
-java SendRecvPrincipal $h $j $k
+java -server -XX:+TieredCompilation -XX:+AggressiveOpts SendRecvPrincipal $h $j $k
 echo "$h DataSize $j Repetitions $k Process - Java"
 done
 done
