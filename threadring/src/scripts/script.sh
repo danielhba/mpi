@@ -1,6 +1,6 @@
 pid=$!
 
-cd ../scala/
+cd scala/
 sh script_scala.sh
 cd ../java/
 sh script_java.sh

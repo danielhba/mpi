@@ -2,9 +2,9 @@ cd ../../java/
 javac *.java
 pid=$!
 
-for k in 1000
+for k in 10000
 do
-for j in 5000 10000 50000 100000 500000 1000000
+for j in 5000 10000 50000 100000
 do
 for h in 5000 10000 50000
 do
