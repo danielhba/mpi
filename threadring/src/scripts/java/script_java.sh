@@ -11,7 +11,7 @@ do
 for i in 1 2 3 4 5 6 7 8 9 10 
 do
 echo "$h DataSize $j Repetitions $k Process - Java"
-java -server -XX:+TieredCompilation -XX:+AggressiveOpts SendRecvPrincipal $h $j $k
+java -Xmx16g SendRecvPrincipal $h $j $k
 done
 done
 done

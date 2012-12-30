@@ -2,8 +2,8 @@ pid=$!
 
 cd scala/
 sh script_scala.sh
-cd ../java/
-sh script_java.sh
+cd ../erlang/
+sh script_erl.sh
 
 #Encerra script 
 sleep 2
