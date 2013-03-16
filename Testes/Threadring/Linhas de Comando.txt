@@ -1,0 +1,29 @@
+Linhas de comando
+
+
+Erlang
+erl -noshell -eval ...
+
+
+Uarini
+erl -noshell -eval ...
+
+
+Java - Normal
+java -verbose:gc -Xloggc:java.log ...
+
+
+Java - MaxHipeSize
+java -verbose:gc -Xloggc:java.log -Xms512m -Xmx1g ...
+
+
+Scala - Normal
+JAVA_OPTS="-verbose:gc -Xloggc:scala.log" scala ...
+
+
+Scala - MaxHipeSize
+JAVA_OPTS="-verbose:gc -Xloggc:scala.log -Xms512g -Xmx1g" scala
+
+
+Scala - default
+scala -J-Xmx8g ...
