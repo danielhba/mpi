@@ -1,0 +1,29 @@
+\begin{thebibliography}{}
+
+\bibitem[Patterson 2008]{patterson:2008}
+Patterson, D. (2008).
+\newblock The parallel revolution has started are you part of the solution or
+  part of the problem?
+
+\bibitem[Santos 2011]{santos:2011}
+Santos, L. (2011).
+\newblock Comparação de desempenho da programação concorrente entre java e
+  erlang utilizando intel mpi benchmarck.
+
+\bibitem[Silva~Jr. and Lins 2012]{silva:2012a}
+Silva~Jr., J. and Lins, R. (2012).
+\newblock ooerlang: Another object oriented extension to erlang.
+\newblock {\em Proceedings of the 11th ACM SIGPLAN Workshop on Erlang (Erlang
+  '12)}.
+
+\bibitem[Silva~Jr. et~al. 2012a]{silva:2012c}
+Silva~Jr., J., Lins, R., and Aquino, D. (2012a).
+\newblock ooerlang: Object oriented erlang.
+\newblock {\em Applied Computing 2012}.
+
+\bibitem[Silva~Jr. et~al. 2012b]{silva:2012b}
+Silva~Jr., J., Lins, R., and Santos, L. (2012b).
+\newblock Assessing the performance of java and erlang in web 2.0 applications.
+\newblock {\em WWW and Internet 2012}.
+
+\end{thebibliography}
